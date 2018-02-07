@@ -29,9 +29,9 @@ To build this project on your own, you need the following libraries:
 	* [SDL_image](https://www.libsdl.org/projects/SDL_image/)
 	* [SDL_net](https://www.libsdl.org/projects/SDL_net/)
 	* [Boost](http://www.boost.org/doc/libs/1_66_0/more/getting_started/windows.html)
-	* [M1_Random](/lib/M1_Random/)
+	* [M1_Random](/lib/M1Random/)
 
 ## Credits
 
-This project uses the SDL2 libraries provided by libsdl.org
-M1_Spacewar is developed by [Marcel Römer] (https://github.com/mirogon)
+This project uses the SDL2 libraries provided by libsdl.org  
+M1_Spacewar is developed by [Marcel Römer](https://github.com/mirogon)
