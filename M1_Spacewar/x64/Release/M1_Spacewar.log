@@ -1,0 +1,208 @@
+﻿  Asteroid.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Base.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Global.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Laser.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PlayerShip.cpp
+  Unknown compiler version - please run the configure tests and report the results
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(94): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Global.h(98): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Functions.h(30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(48): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(51): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Asteroid.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\Laser.h(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(72): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(73): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\m1_spacewar\PlayerShip.h(92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Asteroid.obj : error LNK2001: unresolved external symbol "class boost::system::error_category const & __cdecl boost::system::system_category(void)" (?system_category@system@boost@@YAAEBVerror_category@12@XZ)
+Asteroid.obj : error LNK2001: unresolved external symbol "class boost::system::error_category const & __cdecl boost::system::generic_category(void)" (?generic_category@system@boost@@YAAEBVerror_category@12@XZ)
+Base.obj : error LNK2001: unresolved external symbol SDL_DestroyRenderer
+Base.obj : error LNK2001: unresolved external symbol SDL_DestroyWindow
+Base.obj : error LNK2001: unresolved external symbol "public: __cdecl m1::C_Random::C_Random(void)" (??0C_Random@m1@@QEAA@XZ)
+Base.obj : error LNK2001: unresolved external symbol SDL_CreateRenderer
+Base.obj : error LNK2001: unresolved external symbol SDL_CreateWindow
+Base.obj : error LNK2001: unresolved external symbol SDL_SetRenderDrawColor
+Game.obj : error LNK2001: unresolved external symbol SDLNet_UDP_Recv
+Game.obj : error LNK2001: unresolved external symbol SDLNet_AllocPacket
+Game.obj : error LNK2001: unresolved external symbol SDL_DestroyTexture
+Game.obj : error LNK2001: unresolved external symbol SDLNet_ResolveHost
+Game.obj : error LNK2001: unresolved external symbol SDLNet_UDP_Send
+Game.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+Game.obj : error LNK2001: unresolved external symbol SDLNet_FreePacket
+Game.obj : error LNK2001: unresolved external symbol SDL_GetError
+Game.obj : error LNK2001: unresolved external symbol "public: int __cdecl m1::C_Random::randomNumber(int,int)" (?randomNumber@C_Random@m1@@QEAAHHH@Z)
+Game.obj : error LNK2001: unresolved external symbol TTF_RenderText_Solid
+Game.obj : error LNK2001: unresolved external symbol SDLNet_GetError
+Game.obj : error LNK2001: unresolved external symbol TTF_CloseFont
+Game.obj : error LNK2001: unresolved external symbol TTF_OpenFont
+Game.obj : error LNK2001: unresolved external symbol SDL_GetTicks
+Game.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+Game.obj : error LNK2001: unresolved external symbol SDLNet_UDP_Open
+Game.obj : error LNK2001: unresolved external symbol SDLNet_UDP_Bind
+Game.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+main.obj : error LNK2001: unresolved external symbol SDL_GetKeyboardState
+main.obj : error LNK2001: unresolved external symbol SDL_RenderClear
+main.obj : error LNK2001: unresolved external symbol SDL_Init
+main.obj : error LNK2001: unresolved external symbol SDL_RenderDrawLines
+main.obj : error LNK2001: unresolved external symbol SDL_Quit
+main.obj : error LNK2001: unresolved external symbol SDL_Delay
+main.obj : error LNK2001: unresolved external symbol SDLNet_Quit
+main.obj : error LNK2001: unresolved external symbol TTF_Init
+main.obj : error LNK2001: unresolved external symbol SDL_PollEvent
+main.obj : error LNK2001: unresolved external symbol SDL_RenderDrawPoint
+main.obj : error LNK2001: unresolved external symbol SDLNet_Init
+main.obj : error LNK2001: unresolved external symbol SDL_RenderPresent
+main.obj : error LNK2001: unresolved external symbol TTF_Quit
+E:\Programming\C++\Projects\M1_Spacewar\x64\Release\M1_Spacewar.exe : fatal error LNK1120: 39 unresolved externals
