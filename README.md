@@ -31,7 +31,36 @@ To build this project on your own, you need the following libraries:
 	* [Boost](http://www.boost.org/doc/libs/1_66_0/more/getting_started/windows.html)
 	* [M1_Random](/lib/M1Random/)
 
+	
+	
 ## Credits
 
-This project uses the SDL2 libraries provided by libsdl.org  
-M1_Spacewar is developed by [Marcel Römer](https://github.com/mirogon)
+This project uses the SDL2 libraries provided by libsdl.org.  
+M1_Spacewar is developed by [Marcel Römer](https://github.com/mirogon).
+
+## License
+
+M1_Spacewar uses the SDL2 game engine, which is available under the [zlib license](http://www.gzip.org/zlib/zlib_license.html).
+This project itself is available under the MIT License
+
+MIT License
+
+Copyright (c) 2018 Marcel Römer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
