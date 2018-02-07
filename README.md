@@ -6,10 +6,10 @@ M1_Spacewar is a very simplistic 2D space shooter with a singleplayer and multip
 ![MultiplayerScreenshot](/doc/images/multiplayer_screenshot.png)
 
 ## Table of Contents
-* How to play
-* Build
-* Credits
-* License
+* [How to play](#how-to-play)
+* [Build](#build)
+* [Credits](#credits)
+* [License](#license)
 
 ## How to play
 If you want to test the game yourself, you have to download [M1_Spacewar.zip](https://github.com/mirogon/M1_Spacewar/tree/master/build )  in /build.  
