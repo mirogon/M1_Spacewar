@@ -200,8 +200,8 @@ inline m1::E_GameState C_Game::Game_Play_Multiplayer(Uint32 deltaTime)
 
 		while (m1::SafeGetTicks() <= waitTime + startTime)
 		{
-			SDL_Surface* countSurface = TTF_RenderText_Solid(scoreFont, m1::to_string(int( ( ( waitTime + startTime ) - m1::SafeGetTicks() +1000 ) / 1000 )).c_str(), SDL_Color{ 0xFF,0xFF,0xFF,0x00 });
-			SDL_Texture* countTexture = SDL_CreateTextureFromSurface(_GetRenderer, countSurface);
+			countSurface = TTF_RenderText_Solid(scoreFont, m1::to_string(int( ( ( waitTime + startTime ) - m1::SafeGetTicks() +1000 ) / 1000 )).c_str(), SDL_Color{ 0xFF,0xFF,0xFF,0x00 });
+			countTexture = SDL_CreateTextureFromSurface(_GetRenderer, countSurface);
 
 			SDL_SetRenderDrawColor(_GetRenderer, 0x00, 0x00, 0x00, 0x00);
 			SDL_RenderClear(_GetRenderer);
@@ -246,8 +246,11 @@ inline m1::E_GameState C_Game::Game_Play_Multiplayer(Uint32 deltaTime)
 
 	SyncScore();
 	RenderScore();
+
 	RenderRemainingTime();
+
 	//m1::SageLog("MP 6\n");
+
 	return currentGameState;
 
 }
@@ -482,7 +485,7 @@ inline void C_Game::MultiplayerThread_Send()
 		//m1::SageLog("Send 4\n");
 		sleepTime = CLIENT_TICKRATE_DELAY - (m1::SafeGetTicks() - startTime);
 		//m1::SafeLog("SleepTime: ", sleepTime, "\n");
-		if (sleepTime > 0)
+		if (sleepTime > 0 && sleepTime <= CLIENT_TICKRATE_DELAY)
 		{
 			std::this_thread::sleep_for( std::chrono::milliseconds(sleepTime) );
 		}
