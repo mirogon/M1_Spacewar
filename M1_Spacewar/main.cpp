@@ -5,14 +5,13 @@
 #undef main
 
 //#endif
-
+void ReadConfigVariables();
 
 int main(int argc, char* argv[])
 {
 	
 	try
 	{
-
 
 		if (SDL_Init(SDL_INIT_VIDEO) == -1)
 		{
@@ -23,6 +22,8 @@ int main(int argc, char* argv[])
 			throw SDLNet_GetError();
 		}
 		TTF_Init();
+
+		ReadConfigVariables();
 
 		bool quit = false;
 		bool keyDown = false;
@@ -151,4 +152,15 @@ int main(int argc, char* argv[])
 	system("pause");
 
 	return 0;
+}
+
+void ReadConfigVariables()
+{
+	std::string sA;
+	if (m1::ReadConfig("config.cfg", "SERVER_ADRESS", sA) == false)
+	{
+		m1::SafeLog("SERVER_ADRESS in config.cfg could not be located\n");
+	}
+	SERVER_ADRESS = const_cast<char*>(sA.c_str());
+
 }

@@ -8,7 +8,7 @@ extern const SDL_Color SCORE_COLOR = SDL_Color{0xFF,0xFF,0xFF,0xFF};
 
 //MULTIPLAYER
 const Uint16 SERVER_PORT = 55555;
-const char* SERVER_ADRESS = "78.42.162.151";
+char* SERVER_ADRESS = "";
 const short CLIENT_TICKRATE = 64;
 const short CLIENT_TICKRATE_DELAY = 1000/CLIENT_TICKRATE;
 

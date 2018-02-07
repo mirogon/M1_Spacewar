@@ -1,12 +1,12 @@
 ﻿  Asteroid.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
@@ -24,22 +24,22 @@ e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(51
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Base.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   Game.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
@@ -83,22 +83,22 @@ e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Game.h(300): 
 Game.cpp(138): warning C4018: '<': signed/unsigned mismatch
   Global.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   Laser.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
@@ -121,13 +121,13 @@ e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Laser.h(74): 
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Laser.h(75): warning C4244: '=': conversion from 'const double' to 'Sint16', possible loss of data
   main.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
@@ -170,13 +170,13 @@ e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Game.h(296): 
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Game.h(300): warning C4018: '<': signed/unsigned mismatch
   PlayerShip.cpp
   Unknown compiler version - please run the configure tests and report the results
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(140): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(219): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(223): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(248): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(142): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(221): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(225): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(251): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(252): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Global.h(253): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\Asteroid.h(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
@@ -216,7 +216,7 @@ e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\PlayerShip.h(
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\PlayerShip.h(171): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 e:\programming\c++\projects\m1_spacewar\git_branch_dev\m1_spacewar\PlayerShip.h(176): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   Generating code
-  All 909 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 1016 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
 M1Random.lib(M1Random.obj) : warning LNK4099: PDB 'M1Random.pdb' was not found with 'M1Random.lib(M1Random.obj)' or at 'E:\Programming\C++\Projects\M1_Spacewar\git_branch_dev\Release\M1Random.pdb'; linking object as if no debug info
   M1_Spacewar.vcxproj -> E:\Programming\C++\Projects\M1_Spacewar\git_branch_dev\Release\M1_Spacewar.exe
