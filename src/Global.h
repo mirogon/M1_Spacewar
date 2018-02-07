@@ -8,6 +8,8 @@
 #include <string>
 #include <sstream>
 #include <array>
+#include <sstream>
+#include <fstream>
 #include <thread>
 #include <boost\thread.hpp>
 #include <M1Random.h>
@@ -21,7 +23,7 @@ extern const SDL_Color SCORE_COLOR;
 
 //MULTIPLAYER
 extern const Uint16 SERVER_PORT;
-extern const char* SERVER_ADRESS;
+extern char* SERVER_ADRESS;
 extern const short CLIENT_TICKRATE;
 extern const short CLIENT_TICKRATE_DELAY;
 extern const SDL_Color OTHER_LASER_COLOR;
@@ -286,6 +288,67 @@ namespace m1 {
 		}
 
 		else return None;
+
+	}
+
+	template <typename T>
+	bool ReadConfig(const char* filename, const char* varName, T& out)
+	{
+		std::ifstream configIn(filename, std::ios::in);
+		static std::string inString;
+		static char cacheChar;
+		static std::stringstream converter;
+		static bool foundVar;
+		inString.clear();
+		inString.shrink_to_fit();
+		converter = std::stringstream();
+		foundVar = false;
+
+		while (configIn.get(cacheChar))
+		{
+
+			if (cacheChar == ':')
+			{
+				if (inString == varName)
+				{
+					foundVar = true;
+					inString.clear();
+					inString.shrink_to_fit();
+					continue;
+
+				}
+
+				else
+				{
+
+					return false;
+				}
+
+			}
+
+			else if (cacheChar == ';')
+			{
+				if (foundVar == true)
+				{
+					converter << inString;
+					converter >> out;
+					configIn.close();
+					return true;
+				}
+				inString.clear();
+				inString.shrink_to_fit();
+			}
+
+			else if (cacheChar == ' ')
+			{
+				continue;
+			}
+
+			inString.push_back(cacheChar);
+		}
+
+		configIn.close();
+		return false;
 
 	}
 
