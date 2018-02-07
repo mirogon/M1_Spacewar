@@ -150,6 +150,9 @@ void C_Game::DespawnAsteroids()
 
 void C_Game::SyncScore()
 {
+	SDL_FreeSurface(scoreSurface);
+	SDL_DestroyTexture(scoreTexture);
+
 	std::string scoreString = "Score: " + m1::to_string(score);
 	scoreSurface = TTF_RenderText_Solid(scoreFont, scoreString.c_str() , SCORE_COLOR);
 	if (scoreSurface == nullptr)
