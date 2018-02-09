@@ -30,6 +30,7 @@ To build this project on your own, you need the following libraries:
 	* [SDL_net](https://www.libsdl.org/projects/SDL_net/)
 	* [Boost](http://www.boost.org/doc/libs/1_66_0/more/getting_started/windows.html)
 	* [M1_Random](/lib/M1Random/)
+	* [M1_Timer](/lib/M1Timer/)
 
 	
 	
