@@ -56,6 +56,8 @@ class C_Game
 		bool firstTime_Game_Play_Multiplayer;
 		bool firstTime_Game_Play;
 
+		m1::C_Timer mainTimer;
+
 		//MULTIPLAYER
 		C_PlayerShip otherPlayer;
 
@@ -352,11 +354,13 @@ inline void C_Game::ReceiveAndHandleServerPackets()
 	static m1::multiplayerData_Asteroid cacheAsteroidData;
 	static m1::multiplayerData_GameInfo cacheGameInfo;
 
-	//m1::SageLog("Receive 2\n");
-
+	static uint64_t startTime = mainTimer.GetTimeSinceStart_microseconds();
+	static uint32_t sleepTime = 0;
 
 	while (currentGameState == m1::E_GameState::GS_Game_Play_Multiplayer)
 	{
+
+		startTime = mainTimer.GetTimeSinceStart_microseconds();
 		mutex_socket.lock();
 		short rc = SDLNet_UDP_Recv(socket, &packet);
 		mutex_socket.unlock();
@@ -413,6 +417,9 @@ inline void C_Game::ReceiveAndHandleServerPackets()
 				}
 				break;
 			}
+
+
+
 		}
 
 		else if (rc == 0)
@@ -422,6 +429,13 @@ inline void C_Game::ReceiveAndHandleServerPackets()
 		else if (rc == -1)
 		{
 			throw SDLNet_GetError();
+		}
+
+		sleepTime = 2000 - (mainTimer.GetTimeSinceStart_microseconds() - startTime);
+		if (sleepTime > 0 && sleepTime <= 1)
+		{
+			//m1::SafeLog("SleepTime: ", sleepTime, "\n");
+			std::this_thread::sleep_for(std::chrono::microseconds(sleepTime));
 		}
 
 	}
@@ -448,14 +462,13 @@ inline void C_Game::MultiplayerThread_Send()
 	m1::multiplayerData_Player sendPlayerData;
 	m1::multiplayerData_Bullet bulletData;
 
-	Uint32 startTime = m1::SafeGetTicks();
+	uint64_t startTime = mainTimer.GetTimeSinceStart_microseconds();
 	int32_t sleepTime = 0;
 
 	while (currentGameState == m1::GS_Game_Play_Multiplayer )
 	{
 		
-		
-		startTime = m1::SafeGetTicks();
+		startTime = mainTimer.GetTimeSinceStart_microseconds();
 		//m1::SageLog("Send 3\n");
 
 		//Send this playerdata to the server
@@ -483,11 +496,11 @@ inline void C_Game::MultiplayerThread_Send()
 		SDLNet_UDP_Send(socket, 1, &bulletDataPacket);
 
 		//m1::SageLog("Send 4\n");
-		sleepTime = CLIENT_TICKRATE_DELAY - (m1::SafeGetTicks() - startTime);
+		sleepTime = CLIENT_TICKRATE_DELAY - (mainTimer.GetTimeSinceStart_microseconds() - startTime);
 		//m1::SafeLog("SleepTime: ", sleepTime, "\n");
 		if (sleepTime > 0 && sleepTime <= CLIENT_TICKRATE_DELAY)
 		{
-			std::this_thread::sleep_for( std::chrono::milliseconds(sleepTime) );
+			std::this_thread::sleep_for( std::chrono::microseconds(sleepTime) );
 		}
 		
 	
